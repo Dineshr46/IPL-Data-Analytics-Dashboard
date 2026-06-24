@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python Environment Variables
+.env
+
+# Logs
+*.log
+
+# Power BI Auto-Recovery Files
+*.tmp
+*.bak
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# SQLite Databases
+*.sqlite3
+*.db
+
+# Temporary Files
+temp/
+tmp/
+
+# Kaggle Download Archives
+*.zip
+
+# Large Dataset Files (Optional)
+# Uncomment if datasets are too large
+# data/raw/*.csv
+# data/cleaned/*.csv
+
+# Jupyter Runtime Files
+.jupyter/
+
+# Matplotlib Cache
+.matplotlib/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# Cache Directories
+.cache/
+.pytest_cache/
